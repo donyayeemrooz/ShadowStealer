@@ -1,5 +1,7 @@
 ### ShadowStealer - Google Chrome Password , Cookies and SystemInfo Dumper 🔒💻🤖
 
+## ♨️ DOWNLOAD THE SOURCE CODE VIA RELEASES ♨️ ##
+
 ## Overview
 This application is a Google Chrome Stealer built using C# that is designed to extract information such as cookies, passwords, and system information from a target's computer. The extracted information is saved in three separate text files and then zipped. The zipped file containing the stolen data is uploaded to an external website, and a link to download the file is sent to a specified Telegram bot.
 
